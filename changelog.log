@@ -1,3 +1,6 @@
+version 1.0.1: 3/23/2016
+- Updated for compatibility with ClickHist V1.0.2
+
 version 1.0.0: 3/10/2016
 - created CHAD_MERRA and implemented the ClickHistDo for functionality
 

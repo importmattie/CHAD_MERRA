@@ -4,14 +4,13 @@
 # ## Clickable Histogram of Atmospheric Data (CHAD)
 # ### *(Clickable Histogram (ClickHist) + Atmospheric Data Input)*
 # 
-# Author: [Matthew Niznik](http://matthewniznik.com) ([matt@matthewniznik.com](mailto:matt@matthewniznik.com))<br>
+# Author: [Mattie Niznik](http://importmattie.github.io) ([mattie.niznik@princeton.edu](mailto:mattie.niznik@princeton.edu))<br>
 # Post-Doctoral Associate,
 # [RSMAS](http://rsmas.miami.edu/),
 # [University of Miami](http://welcome.miami.edu/)
 # 
 # For more information, see:<br>
-# https://github.com/matthewniznik/ClickHist/wiki<br>
-# http://matthewniznik.com/research-projects/clickhist<br>
+# https://github.com/importmattie/ClickHist/wiki<br>
 
 # # Let's get started.
 # ## (1) Setting Input/Output Files

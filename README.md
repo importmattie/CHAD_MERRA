@@ -4,9 +4,9 @@ CHAD (= ClickHist + Atmospheric Data)
 
 An implementation for exploring data from MERRA and TRMM
 
-Author: Matthew Niznik (matthewniznik on Github)
+Author: Mattie Niznik (importmattie on Github)
 
-E-mail: matt@matthewniznik.com | mniznik@rsmas.miami.edu
+E-mail: mattie.niznik@princeton.edu
 
 Version 1.0.1
 

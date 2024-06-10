@@ -18,6 +18,4 @@ CHAD_MERRA is funded by NASA grant NNX14AR75G, PI: Brian Mapes, University of Mi
 
 We gratefully acknowledge this financial support.
 
-System Requirements:
-
 If you come across any bugs or need assistance in using ClickHist, please notify the author at the E-mail listed above.
